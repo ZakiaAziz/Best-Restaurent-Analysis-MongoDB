@@ -1,1 +1,2 @@
 # nosql-challenge
+This challenge includes UK Restaurents and their detailed analysis which will help journalists to report the best restaurents in a magazine. The resources folder has all the data that will be used to do the analysis. The code for setup is in NoSQL_setup_starter.ipynb and Analysis in NoSQL_setup_starter.ipynb. Python code is used to import json file into MongoDB and performed Analysis by creating Pandas DataFrame.
